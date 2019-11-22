@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF4d4d</color>
+    <color name="colorPrimaryDark">#FF4d4d</color>
+    <color name="colorAccent">#FF4d4d</color>
+
+    <color name="card_divider">#CCE6E6E6</color>
+    <color name="text_frame_background">#E6000000</color>
+</resources>
