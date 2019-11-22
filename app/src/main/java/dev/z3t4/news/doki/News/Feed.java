@@ -14,7 +14,7 @@ import org.jsoup.select.Elements;
 import java.io.IOException;
 import java.util.ArrayList;
 
-import d.z.n.doki.Adapter.NewsAdapter;
+import dev.z3t4.news.doki.Adapter.NewsAdapter;
 import dev.z3t4.news.doki.ParallaxEffect.ParallaxRecyclerView;
 import dev.z3t4.news.doki.Pojo.NewsPojo;
 import dev.z3t4.news.doki.Utils.CustomItemDecorator;
