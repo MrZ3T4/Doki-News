@@ -1,4 +1,4 @@
-package d.z.n.doki.Adapter;
+package dev.z3t4.news.doki.Adapter;
 
 import android.content.Context;
 import android.net.Uri;
@@ -113,7 +113,7 @@ public class NewsAdapter extends RecyclerView.Adapter<NewsAdapter.ViewHolder> {
         @BindView(R.id.source) AppCompatTextView source;
         @BindView(R.id.source_img) CircleImageView source_img;
 
-        public ViewHolder(View itemView) {
+        ViewHolder(View itemView) {
             super(itemView);
             ButterKnife.bind(this, itemView);
         }
